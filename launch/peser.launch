@@ -1,0 +1,6 @@
+<launch>
+
+	<node name="procesador_A" pkg="peser" type="procesador" output="screen"/>
+	<node name="camara_A" pkg="peser" type="camara" output="screen"/>
+
+</launch>	

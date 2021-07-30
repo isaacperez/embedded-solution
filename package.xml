@@ -1,0 +1,18 @@
+<package>
+	<name>peser</name>
+	<version>0.0.1</version>
+	<description>
+	Paquete que engloba el sistema que utilizará visor
+	</description>
+	<maintainer email="isaperbor@gmail.com">Isaac</maintainer>
+	<license>Propietario</license>
+
+	<buildtool_depend>catkin</buildtool_depend>
+
+	<build_depend>roscpp</build_depend>
+	<build_depend>std_msg</build_depend>
+
+	<run_depend>roscpp</run_depend>
+	<run_depend>std_msg</run_depend>
+	
+</package>
